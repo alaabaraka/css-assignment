@@ -1,0 +1,54 @@
+header{
+ color:blueviolet;
+ background-color:bisque ;
+ height:80%px; 
+}
+
+header nav{
+  float:center ;
+  width:30%;
+  margin-top:15px
+}
+
+header nav ul li{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+header nav ul li{
+  color: rgb(blanchedalmond,pink,blue)
+}
+header h1{
+  float:left;
+  margin-left: 40px;
+} 
+
+header nav ul li{
+  display:inline-block;
+  margin-right:10px;
+}
+
+header nav ul li a{
+  color:aquargb(210,110,140);
+  text-decoration: aliceblue;
+}
+
+#first{  
+  background-color: #f4abc4;
+}
+
+#second{
+  color:black;
+  background-color:grey;
+  margin-bottom: 30px;
+}
+image-container{
+  text-align: center;
+  display: inline-block
+  width: 30%;
+  margin-left: 30px;
+}
+
+footer{
+  color:wheat;background-color: burlywood
+}
